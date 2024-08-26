@@ -50,7 +50,7 @@ indicating paths.
 ”https://” indicating URLs
 30) stringsregistry: Number of strings that contain ”HKEY ”
 indicating registry keys.
-31) stringsMZ: Number of strings that contain ”MZ” indicating Windows PE droppers or bundled executables.
+31) stringsMZ: Number of strings that contain ”MZ” indicating Windows PE droppers or bundled executables.
 32) cofftimestamp: Timestamp in the COFF header of the
 PE file.
 33) coffmachine: Target machine for which the PE file is
