@@ -64,9 +64,9 @@ the PE file.
 37) optionalmagic: Magic value in the optional header of the
 PE file
 
-38) optionalmajor image version: Major image version specified in the optional header of the PE file.
+38) optionalmajor image version: Major image version specified in the optional header of the PE file.
 39) optionalminor image version: Minor image version
 specified in the optional header of the PE.
-40) optionalmajor linker version: Major linker version specified in the optional header of the PE file.
-41) optionalminor linker version: Minor linker version specified in the optional header of the PE file.
+40) optionalmajor linker version: Major linker version specified in the optional header of the PE file.
+41) optionalminor linker version: Minor linker version specified in the optional header of the PE file.
     
